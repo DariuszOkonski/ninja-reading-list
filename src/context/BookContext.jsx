@@ -7,7 +7,7 @@ export const BookContext = createContext();
 const BookContextProvider = (props) => {
   const [books, dispatch] = useReducer(bookReducer, [], () => {
     const localDate = JSON.parse(localStorage.getItem('books'));
-    return localDate.length ? localDate : [];
+    return localDate ? localDate : [];
   });
 
   useEffect(() => {
