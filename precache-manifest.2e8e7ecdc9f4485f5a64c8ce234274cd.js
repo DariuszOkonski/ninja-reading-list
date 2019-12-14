@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3cd30baf1897092dc0a08182040f6c58",
+    "revision": "52d44fecf25630cdf7dfda4af4666ef5",
     "url": "/ninja-reading-list/index.html"
   },
   {
-    "revision": "cca8c2c18a27b874feb7",
+    "revision": "6a8dde1d539ad0e3f743",
     "url": "/ninja-reading-list/static/css/main.2db19bf8.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ninja-reading-list/static/js/2.02296dba.chunk.js"
   },
   {
-    "revision": "cca8c2c18a27b874feb7",
-    "url": "/ninja-reading-list/static/js/main.5d1aa058.chunk.js"
+    "revision": "6a8dde1d539ad0e3f743",
+    "url": "/ninja-reading-list/static/js/main.fed760ec.chunk.js"
   },
   {
     "revision": "b2aaf1a4a84c63ea4e2d",

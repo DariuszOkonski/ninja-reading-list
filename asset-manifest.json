@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ninja-reading-list/static/css/main.2db19bf8.chunk.css",
-    "main.js": "/ninja-reading-list/static/js/main.5d1aa058.chunk.js",
-    "main.js.map": "/ninja-reading-list/static/js/main.5d1aa058.chunk.js.map",
+    "main.js": "/ninja-reading-list/static/js/main.fed760ec.chunk.js",
+    "main.js.map": "/ninja-reading-list/static/js/main.fed760ec.chunk.js.map",
     "runtime-main.js": "/ninja-reading-list/static/js/runtime-main.891cb517.js",
     "runtime-main.js.map": "/ninja-reading-list/static/js/runtime-main.891cb517.js.map",
     "static/js/2.02296dba.chunk.js": "/ninja-reading-list/static/js/2.02296dba.chunk.js",
     "static/js/2.02296dba.chunk.js.map": "/ninja-reading-list/static/js/2.02296dba.chunk.js.map",
     "index.html": "/ninja-reading-list/index.html",
-    "precache-manifest.b58042fe4779614e291ac14efa5a6ce9.js": "/ninja-reading-list/precache-manifest.b58042fe4779614e291ac14efa5a6ce9.js",
+    "precache-manifest.2e8e7ecdc9f4485f5a64c8ce234274cd.js": "/ninja-reading-list/precache-manifest.2e8e7ecdc9f4485f5a64c8ce234274cd.js",
     "service-worker.js": "/ninja-reading-list/service-worker.js",
     "static/css/main.2db19bf8.chunk.css.map": "/ninja-reading-list/static/css/main.2db19bf8.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.891cb517.js",
     "static/js/2.02296dba.chunk.js",
     "static/css/main.2db19bf8.chunk.css",
-    "static/js/main.5d1aa058.chunk.js"
+    "static/js/main.fed760ec.chunk.js"
   ]
 }
