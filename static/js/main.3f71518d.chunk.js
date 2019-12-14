@@ -1,2 +1,0 @@
-(this["webpackJsonpz-app-003"]=this["webpackJsonpz-app-003"]||[]).push([[0],{3:function(e,n,t){e.exports=t(9)},8:function(e,n,t){},9:function(e,n,t){"use strict";t.r(n);var r=t(0),a=t.n(r),l=t(2),o=t.n(l);t(8);var c=function(){return a.a.createElement("div",null,a.a.createElement("h1",null,"Hello world"))};o.a.render(a.a.createElement(c,null),document.getElementById("root"))}},[[3,1,2]]]);
-//# sourceMappingURL=main.3f71518d.chunk.js.map

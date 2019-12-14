@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ninja-reading-list/precache-manifest.34db39b08c1f23f709fc19914e0ed0cb.js"
+  "/ninja-reading-list/precache-manifest.b58042fe4779614e291ac14efa5a6ce9.js"
 );
 
 self.addEventListener('message', (event) => {
